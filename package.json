@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Leoch2340/ccc.git"
   },
-  "homepage": "",
+  "homepage": "https://leoch2340.github.io/ccc/",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
     "dev": "webpack serve",
